@@ -43,4 +43,4 @@ Feel free to fork the repository, make changes, and create pull requests. All co
 
 ### Credit
 
-- Master modern React from beginner to advanced! Context API, React Query, Redux Toolkit, Tailwind, advanced patterns (by Jonas Schmedtmann) (Udemy)
+Master modern React from beginner to advanced! Context API, React Query, Redux Toolkit, Tailwind, advanced patterns (by Jonas Schmedtmann) (Udemy)
