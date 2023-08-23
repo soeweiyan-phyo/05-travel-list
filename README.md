@@ -40,3 +40,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Contributing
 
 Feel free to fork the repository, make changes, and create pull requests. All contributions are welcome!
+
+### Credit
+
+- Master modern React from beginner to advanced! Context API, React Query, Redux Toolkit, Tailwind, advanced patterns (by Jonas Schmedtmann) (Udemy)
